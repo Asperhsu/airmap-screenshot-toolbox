@@ -1,0 +1,22 @@
+{
+	"url": "https://v5.airmap.g0v.tw",
+	"width": 1600,
+	"height": 1280,
+	"delay": 10000,
+	"isMobile": true,
+	"localStorage": {
+		"appsetting": {
+			"app/setLastShowWarning": "NOW()",
+			"app/setMapType": "town",
+			"app/setHideTabbar": true,
+			"map/setCenter": {
+				"lat": 23.697646283509105,
+				"lng": 120.7333409510843
+			},
+			"map/setZoom": 8,
+			"map/setStartupUseMyLocation": false,
+			"map/setShowIndicator": true,
+			"map/setShowPublishWatermark": true
+		}
+	}
+}
